@@ -37,11 +37,32 @@
 
 <div align="center">
 
-**Tools & Technologies**
+**Adobe Creative Suite**
+
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white)
+
+**Additional Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Marketing Skills
+
+### <img src="https://raw.githubusercontent.com/github/explore/main/topics/analytics/analytics.png" width="20" style="vertical-align: middle;"> Marketing & Optimization
+
+<div align="center">
+
+![Optimizely](https://img.shields.io/badge/Optimizely-185ABD?style=for-the-badge&logo=optimizely&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+**A/B Testing • Conversion Optimization • Data Analytics**
 
 </div>
 
