@@ -93,6 +93,31 @@ Hier sind meine inspirierenden Quellen für AI-gestütztes Design:
 
 ---
 
+## 🤖 LLM & AI Models
+
+### 🧠 Top Graphic Design LLMs & AI Models Repositories
+
+Meine favorisierten Repositories für Language Models und AI im Design:
+
+<div align="center">
+
+| Repository | Stars | Beschreibung |
+|------------|-------|--------------|
+| [cofounder](https://github.com/raidendotai/cofounder) | ![GitHub stars](https://img.shields.io/github/stars/raidendotai/cofounder?style=flat) | AI-generierte Apps + Generative UI |
+| [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) | ![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter?style=flat) | Image Prompt Adapter für Text-to-Image Diffusion |
+| [edm](https://github.com/NVlabs/edm) | ![GitHub stars](https://img.shields.io/github/stars/NVlabs/edm?style=flat) | NVIDIA Diffusion-Based Generative Models |
+| [Molecular Design Papers](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) | ![GitHub stars](https://img.shields.io/github/stars/AspirinCode/papers-for-molecular-design-using-DL?style=flat) | Molecular & Material Design mit Generative AI |
+| [DiffSBDD](https://github.com/arneschneuing/DiffSBDD) | ![GitHub stars](https://img.shields.io/github/stars/arneschneuing/DiffSBDD?style=flat) | Structure-Based Drug Design mit Diffusion |
+| [Garment Designer](https://github.com/aimagelab/multimodal-garment-designer) | ![GitHub stars](https://img.shields.io/github/stars/aimagelab/multimodal-garment-designer?style=flat) | Fashion Image Editing mit Diffusion Models |
+| [DiffLinker](https://github.com/igashov/DiffLinker) | ![GitHub stars](https://img.shields.io/github/stars/igashov/DiffLinker?style=flat) | Molecular Linker Design mit Diffusion |
+| [AI Design Patterns](https://github.com/lakshmanok/generative-ai-design-patterns) | ![GitHub stars](https://img.shields.io/github/stars/lakshmanok/generative-ai-design-patterns?style=flat) | Design Patterns für Generative AI Applications |
+| [RNA Design](https://github.com/chaitjo/geometric-rna-design) | ![GitHub stars](https://img.shields.io/github/stars/chaitjo/geometric-rna-design?style=flat) | Generative AI für 3D RNA Structure Design |
+| [replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) | ![GitHub stars](https://img.shields.io/github/stars/awkoy/replicate-flux-mcp?style=flat) | MCP für Flux Model - AI Design Generation |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
