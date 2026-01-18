@@ -68,6 +68,29 @@
 
 ---
 
+## 🏆 Top Design Skills (nach Stars, Forks & Trending)
+
+Die besten Design-Repositories basierend auf Community-Engagement:
+
+<div align="center">
+
+| Repository | ⭐ Stars | 🍴 Forks | 🔥 Trending | Beschreibung |
+|------------|----------|----------|-------------|--------------|
+| [onlook](https://github.com/onlook-dev/onlook) | 24.4k | 1.8k | ⭐⭐⭐ | Cursor für Designer - AI-First Design Tool |
+| [CreativeTim UI](https://github.com/creativetimofficial/ui) | 11.5k | 4.9k | ⭐⭐⭐ | UI Komponenten + AI Agents |
+| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | 8.1k | 465 | ⭐⭐⭐ | Python AI Bild- & Video-Generierung |
+| [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | 7.8k | 1.8k | ⭐⭐ | GPT-4o Bild-Prompts Sammlung |
+| [mmagic](https://github.com/open-mmlab/mmagic) | 7.4k | 1.1k | ⭐⭐ | OpenMMLab AIGC Toolbox |
+| [cofounder](https://github.com/raidendotai/cofounder) | 6.6k | 735 | ⭐⭐⭐ | AI-generierte Apps + Generative UI |
+| [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) | 6.4k | 413 | ⭐⭐ | Image Prompt Adapter für Diffusion |
+| [peinture](https://github.com/Amery2010/peinture) | 512 | 218 | ⭐ | AI Bildgenerierung Framework |
+| [canva-clone](https://github.com/Davronov-Alimardon/canva-clone) | 409 | 227 | ⭐ | Canva-Klon mit AI Features |
+| [luro-ai](https://github.com/Shreyas-29/luro-ai) | 273 | 70 | ⭐ | Modern UI Website für SaaS |
+
+</div>
+
+---
+
 ## 💡 Inspiration & Learning
 
 ### 🚀 Top Design & Graphic AI Repositories
