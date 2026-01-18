@@ -68,6 +68,31 @@
 
 ---
 
+## 💡 Inspiration & Learning
+
+### 🚀 Top Design & Graphic AI Repositories
+
+Hier sind meine inspirierenden Quellen für AI-gestütztes Design:
+
+<div align="center">
+
+| Repository | Stars | Beschreibung |
+|------------|-------|--------------|
+| [onlook](https://github.com/onlook-dev/onlook) | ![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=flat) | Cursor für Designer - AI-First Design Tool |
+| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | ![GitHub stars](https://img.shields.io/github/stars/brycedrennan/imaginAIry?style=flat) | Python AI Bild- & Video-Generierung |
+| [mmagic](https://github.com/open-mmlab/mmagic) | ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmagic?style=flat) | OpenMMLab AIGC Toolbox |
+| [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | ![GitHub stars](https://img.shields.io/github/stars/jamez-bondos/awesome-gpt4o-images?style=flat) | GPT-4o Bild-Prompts Sammlung |
+| [peinture](https://github.com/Amery2010/peinture) | ![GitHub stars](https://img.shields.io/github/stars/Amery2010/peinture?style=flat) | AI Bildgenerierung Framework |
+| [MERN AI Image Gen](https://github.com/adrianhajdin/project_ai_mern_image_generation) | ![GitHub stars](https://img.shields.io/github/stars/adrianhajdin/project_ai_mern_image_generation?style=flat) | MERN AI Image Generation App |
+| [canva-clone](https://github.com/Davronov-Alimardon/canva-clone) | ![GitHub stars](https://img.shields.io/github/stars/Davronov-Alimardon/canva-clone?style=flat) | Canva-Klon mit AI Features |
+| [ui-screenshot-to-prompt](https://github.com/s-smits/ui-screenshot-to-prompt) | ![GitHub stars](https://img.shields.io/github/stars/s-smits/ui-screenshot-to-prompt?style=flat) | UI zu Prompt Konverter |
+| [creatiposter](https://github.com/graphic-design-ai/creatiposter) | ![GitHub stars](https://img.shields.io/github/stars/graphic-design-ai/creatiposter?style=flat) | AI Grafikdesign-System |
+| [CreativeTim UI](https://github.com/creativetimofficial/ui) | ![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/ui?style=flat) | UI Komponenten + AI Agents |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
